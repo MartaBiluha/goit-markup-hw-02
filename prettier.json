@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="ru">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Web Studio</title>
+</head>
+
+<body>
+    <header>
+        <a href="./index.html"><span>Web</span>Studio</a>
+        <nav>
+            <ul>
+                <li>
+                    <a href="#">Студия</a>
+                </li>
+                <li>
+                    <a href="#">Портфолио</a>
+                </li>
+                <li>
+                    <a href="#">Контакты</a>
+                </li>
+            </ul>
+        </nav>
+        <ul>
+            <li>
+                <a href="mailto:info@devstudio.com">info@devstudio.com</a>
+            </li>
+            <li>
+                <a href="tel:+380961111111">+38 096 111 11 11</a>
+            </li>
+        </ul>
+        <main>
+        <ul>
+            <li>Все</li>
+            <li>Веб-сайты</li>
+            <li>Приложения</li>
+            <li>Дизайн</li>
+            <li>Маркетинг</li>
+        </ul>
+        <ul>
+            <li>
+                <img src="./images/img-6-2.jpg" alt="Ноутбук">
+                <p>Технокряк</p>
+                <p>Веб-сайт</p>
+            </li>
+            <li>
+                <img src="./images/img-7-2.jpg" alt="Баскетбол">
+                <p> Постер <span lang="en">New Orlean vs Golden Star</span></p> 
+                <p>Дизайн</p>
+            </li>
+            <li>
+                <img src="./images/img-8-2.jpg" alt="Логотип ресторана">
+                <p> Ресторан <span lang="en">Seafood</span></p>
+                <p>Приложение</p>
+            </li>
+            <li>
+                <img src="./images/img-9-2.jpg" alt="Наушники">
+                <p> Проект <span lang="en">Prime</span></p>
+                <p>Маркетинг</p>
+            </li>
+            <li>
+                <img src="./images/img-10-2.jpg" alt="Коробка">
+                <p> Проект <span lang="en">Boxes</span></p>
+                <p>Приложение</p>
+            </li>
+            <li>
+                <img src="./images/img-11-2.jpg" alt="Монитор">
+                <p lang="en">Inspiration has no Borders</p>
+                <p>Веб-сайт</p>
+            </li>
+            <li>
+                <img src="./images/img-12-2.jpg" alt="Книга">
+                <p> Издание <span lang="en">Limited edition</span></p>
+                <p>Дизайн</p>
+            </li>
+            <li>
+                <img src="./images/img-13-2.jpg" alt="Бирка">
+                <p> Проект <span lang="en">LAB</span></p>
+                <p>Маркетинг</p>
+            </li>
+            <li>
+                <img src="./images/img-14-2.jpg" alt="Ноутбук">
+                <p lang="en">Growing Business</p>
+                <p>Приложение</p>
+            </li>
+        </ul>
+
+        </main>
+    <footer>
+    
+        <a href="#"><span>Web</span>Studio</a>
+        <address>
+            г. Киев, пр-т Леси Украинки, 26
+        </address>
+        <ul>
+            <li>
+                <a href="mailto:info@devstudio.com">info@devstudio.com</a>
+            </li>
+            <li>
+                <a href="tel:+380961111111">+38 096 111 11 11</a>
+            </li>
+        </ul>
+    
+    </footer>
+    
+    
+    </body>
+    
+    </html>
